@@ -15,7 +15,9 @@ This repository contains a simple and interactive calculator built using HTML, C
 
 ## Project Structure
 index.html: The main HTML file containing the calculator's structure.
+
 style.css: The CSS file that styles the calculator.
+
 script.js: The JavaScript file that adds functionality to the calculator.
 
 ### License
